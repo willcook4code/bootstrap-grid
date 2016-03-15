@@ -1,38 +1,46 @@
 .navbar-nav>li>a  {
-	margin-right: 3em;
-}
-.jumbotron {
-	
-	background: url('https://raw.githubusercontent.com/TIY-Austin-Front-End-Engineering/bootstrap-grid/master/images/hero-dark.jpg') top center no-repeat;
-	background-size: cover;
-	margin: 0;
-	color: white;
-	font-size: 3.5em;
-	text-align: center;
-}
+ 	margin-right: 3em;
+ }
+ .jumbotron {
+ 	
+ 	background: url('https://raw.githubusercontent.com/TIY-Austin-Front-End-Engineering/bootstrap-grid/master/images/hero-dark.jpg') top center no-repeat;
+ 	background-size: cover;
+ 	margin: 0;
+ 	color: white;
+ 	font-size: 3.5em;
+ 	text-align: center;
+ }
+ 
+ .jumbotron > p {
+ 	font-size: 1.5em;
+ 
+ }
+ .thumbnail {
+ 	height: 95%;
+ 	width: 95%;
+ 	border: none;
+ 	margin-bottom: 0;
+ 
+ }
+ 
+ .girlBike {
+ 	margin: 0;
+ 	width: 100%;
+ }
 
-.jumbotron > p {
-	font-size: 1.5em;
-
-}
-.thumbnail {
-	height: 100%;
-	width: 100%;
-	border: none;
-	margin-bottom: 0;
-
-}
-
-.girlBike {
-	margin: 0;
-	width: 100%;
-}
-
-@media(min-width: 768px) {
-	.well {
-	text-align: center;
-    margin: 0 2%;
-    min-height: 19em;
-    min-width: 29%;	
-	}
-}
+ .jumbotron3 {
+ 	background-color: #3A414B;
+ 	color: #889299;
+ }
+ .jumbotron3 > div > div> p>a {
+ 	text-decoration: underline;
+ 	color: #889299;
+ }
+ 
+ @media(min-width: 768px) {
+ 	.well {
+ 	text-align: center;
+     margin: 0 2%;
+     min-height: 19em;
+     min-width: 29%;	
+ 	}
