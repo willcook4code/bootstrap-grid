@@ -1,0 +1,91 @@
+.jumbotron {
+	padding: 0;
+	background: url('https://raw.githubusercontent.com/TIY-Austin-Front-End-Engineering/bootstrap-grid/master/images/hero-dark.jpg') top center no-repeat;
+	background-size: cover;
+	margin: 0;
+}
+.container {
+    padding-top: 5em;
+    width: 62%;
+    text-align: center;
+    color: white;
+    min-height: 21em;
+    font-family: Sans;
+    font-weight: 200;
+}
+
+.container2 {
+	margin: 0 2em 2em 2em;
+	text-align: center;
+	color: gray;
+}
+
+.container2 button {
+	margin-right: 50%;
+	width: 30%;
+	font-size: .8em;
+}
+
+.container3{
+	border-top: 1px solid black;
+	margin: 0	5%;
+}
+.well{
+	
+	padding: 0 1em;
+	margin: 2em 0;
+	color: gray;
+}
+
+.well h3{
+	margin-top: 10px;
+}
+
+.row {
+	width: 54%;
+	padding: 0;
+	display: inline-block;
+	margin-bottom: 2em;
+	color: gray;
+	font-size: 1.3em;
+}
+.thumbnail {
+	margin-bottom: 0;
+	border: none;
+}
+.jumbotron2 {
+	border-top: 1px solid black;
+	margin: 0 5% 2em 5%;
+	color: gray;
+}
+.container4 img {
+	margin: 0;
+	width: 100%;	
+}
+
+.jumbotron3 {
+	background-color: #3A414B;
+	color: #9097A1;
+	padding: 1em;
+}
+
+.jumbotron3 h4 {
+	margin-top: 1em;
+}
+
+.jumbotron3 p {
+	font-size: .8em;
+}
+
+.jumbotron3 a {
+	color: #9097A1;
+	text-decoration: underline;
+	font-size: 1em;
+}
+
+
+
+
+
+
+
